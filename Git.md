@@ -75,6 +75,6 @@ If you run git status for big repo
 
 2. Sparse checkout
 git sparse-checkout
-Gets only the files required for you to work
+Gets only the files required for you to work 
 
 
